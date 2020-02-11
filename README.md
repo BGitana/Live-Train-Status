@@ -6,7 +6,7 @@ Firebase, Moment.js, jQuery, JavaScript, HTML, CSS, Bootstrap
 
 **Live Train Status** is a app that looks up train scheduler in real time. When the user completes the form and submits it, a new row appears in a table. It displays the Train Name, the Destination, the Frequency in minutes and calculates the time at which the next train will depart, in relation to the current time as well as the remaining minutes before the next train.
 <br>
-Welcome to [Live Train Status](https://bgitana.github.io/Live-Train-Status/.). Enjoy!
+Welcome to [Live Train Status](https://bgitana.github.io/Live-Train-Status/). Enjoy!
 
 ### Prerequisites
 
